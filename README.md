@@ -1,5 +1,5 @@
-Project Title:
-Potato Disease Classification Using CNN (Convolutional Neural Networks)
+**Project Title:
+Potato Disease Classification Using CNN (Convolutional Neural Networks)**
 
 Description:
 Developed a deep learning model using Convolutional Neural Networks (CNN) that achieved 100% accuracy in classifying potato leaf diseases, including Early Blight, Late Blight, and Healthy leaves.
