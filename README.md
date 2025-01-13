@@ -1,7 +1,3 @@
-Here's a more attractive and easy-to-understand version of your **Potato Disease Classification Using CNN** project README file for GitHub:
-
----
-
 # **Potato Disease Classification Using CNN (Convolutional Neural Networks)**
 
 ## **Project Overview**
@@ -84,7 +80,3 @@ For real-time use, I deployed the model using **Streamlit**, enabling users to u
 2. Install required libraries (e.g., TensorFlow, Keras, etc.).
 3. Run the **Jupyter Notebook** or **Google Colab** notebook to train the model.
 4. Optionally, use the **Streamlit** app for real-time disease classification.
-
----
-
-This version of the README is clear, professional, and structured, making it easy for others to understand and use your project.
